@@ -1,0 +1,13 @@
+{
+    "name": "gunter-new",
+    "description": "A simple and clean theme for Ghost by Germán Encinas. Updated for newer versions of Ghost by Devin Collins.",
+    "version": "2.0.0",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Devin Collins",
+        "email": "me@imdevinc.com"
+    }
+}
